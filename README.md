@@ -29,6 +29,6 @@ Projet réalisé par :
 - [NSHUO IKPALE REMEDI]
 - [KANONGA EPEKA CHRIST]
 - [LUMAKA JEPHTE]
-- [ATUNGULA CAMILLE]
+- [ATUNGALE CAMILLE]
 - [NZIMBU KIAKU JUDICAEL]
 dans le cadre du cours **Web 1** - [Université de Kinshasa](https://www.unikin.ac.cd/).
