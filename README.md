@@ -26,7 +26,7 @@ Projet réalisé par :
 - [MOLENGO MALANDA FORDI](https://github.com/fordimalanda)
 - [MBALANGA MBALANGA AMADOU](https://github.com/Useramadou)
 - [ZANGU BATOKILA HANS](https://github.com/userhanszangu)
-- [NSHUO IKPALE REMEDI]
+- [NSHUO IKPALE REMEDI] (https://github.com/RMD24-web)
 - [ABBA]
 - [KANONGA EPEKA CHRIST]
 - [LUMAKA JEPHTE]
