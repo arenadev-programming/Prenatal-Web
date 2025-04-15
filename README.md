@@ -25,7 +25,7 @@ Ce projet vise à :
 Projet réalisé par :
 - [MOLENGO MALANDA FORDI](https://github.com/fordimalanda)
 - [MBALANGA MBALANGA AMADOU](https://github.com/Useramadou)
-- [ZANGU BATOKILA HANS]
+- [ZANGU BATOKILA](https://github.com/userhanszangu)
 - [NSHUO IKPALE REMEDI]
 - [KANONGA EPEKA CHRIST]
 - [LUMAKA JEPHTE]
