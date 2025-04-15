@@ -28,7 +28,7 @@ Projet réalisé par :
 - [ZANGU BATOKILA HANS](https://github.com/hanszangu)
 - [NSHUO IKPALE REMEDI](https://github.com/RMD24-web)
 - [MATENSI ABA ABA]
-- [KANONGA EPEKA CHRIST]
+- [KANONGA EPEKA CHRIS]
 - [LUMAKA JEPHTE]
 - [ATUNGALE CAMILLE]
 - [NZIMBU KIAKU JUDICAEL]
