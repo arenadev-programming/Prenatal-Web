@@ -27,6 +27,7 @@ Projet réalisé par :
 - [MBALANGA MBALANGA AMADOU](https://github.com/Useramadou)
 - [ZANGU BATOKILA](https://github.com/userhanszangu)
 - [NSHUO IKPALE REMEDI]
+- [ABBA]
 - [KANONGA EPEKA CHRIST]
 - [LUMAKA JEPHTE]
 - [ATUNGALE CAMILLE]
