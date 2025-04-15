@@ -27,9 +27,5 @@ Projet réalisé par :
 - [MBALANGA MBALANGA AMADOU](https://github.com/Useramadou)
 - [ZANGU BATOKILA HANS](https://github.com/userhanszangu)
 - [NSHUO IKPALE REMEDI] (https://github.com/RMD24-web)
-- [MATENSI ABA ABA]
-- [KANONGA EPEKA CHRIST]
-- [LUMAKA JEPHTE]
-- [ATUNGALE CAMILLE]
-- [NZIMBU KIAKU JUDICAEL]
+  
 dans le cadre du cours **Web 1** - [Université de Kinshasa](https://www.unikin.ac.cd/).
