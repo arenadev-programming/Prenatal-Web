@@ -28,4 +28,4 @@ Projet réalisé par :
 - [ZANGU BATOKILA HANS](https://github.com/hanszangu)
 - [NSHUO IKPALE REMEDI](https://github.com/RMD24-web)
   
-dans le cadre du cours **Web 1** - [Université de Kinshasa](https://www.unikin.ac.cd/).
+Dans le cadre du cours **Web 1** - [Université de Kinshasa](https://www.unikin.ac.cd/).
